@@ -1,0 +1,64 @@
+Entire Series I have divided into 3 videos
+
+Part - 1  :  https://www.youtube.com/watch?v=zjOypQCMEQo&list=PLyjwSz9fDYVVKQ_oM0TbnZZRnETUjUisP&index=1
+
+Overview of Below Topics
+ Page Factory and Page Object Model
+ Folder Structure 
+ Parametrization through files
+ Reports and Screen-shots
+ Logger : Logging Mechanism
+ Automatic Chrome Driver Download
+ what and how Execution from: 
+  pom.xml  | testng.xml | cmd  | Jenkins
+
+What is 
+ Page Factory and Page Object Model
+ Folder Structure
+  Page Class
+  Action Class
+  Flow Class
+  Util Class
+  
+ Parametrization (Flow and Object Repository)
+  .properties file
+  .xls file
+  .ini file
+  .xml file
+  
+ Automatic Chrome Driver Download:
+  webdrivermanager : bonigarcia : C:\Users\Captain\.m2\repository\io\github
+  webdriver   : C:\Users\Captain\.m2\repository\webdriver
+-------------------------------------------------------------------------------------------------- 
+ 
+Part - 2   :   https://www.youtube.com/watch?v=33HuI1fdAFM&list=PLyjwSz9fDYVVKQ_oM0TbnZZRnETUjUisP&index=2
+Reports and Screen-shots
+ Default TestNG Reports
+ Extent Report
+ 
+Logger
+ log4j
+ Extent Report
+ 
+what is pom.xml 
+what are its Plugins
+and what is maven execution cycle
+ maven-compiler-plugin
+ maven-surefire-plugin
+ properties-maven-plugin
+ maven-assembly-plugin
+
+-------------------------------------------------------------------------------------------------- 
+
+Part - 3   :   https://www.youtube.com/watch?v=iVmv4KMLJso&list=PLyjwSz9fDYVVKQ_oM0TbnZZRnETUjUisP&index=3
+Execution Through:
+ testng.xml and parameterization
+ pom.xml and parameterization and maven execution cycle
+ cmd : java -jar *
+ Jenkins
+
+Parallel Execution on Docker Containers  
+Dockerfile
+Jenkinsfile
+
+-------------------------------------------------------------------------------------------------- 
